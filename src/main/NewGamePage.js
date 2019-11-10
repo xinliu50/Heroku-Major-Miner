@@ -27,6 +27,7 @@
         loading: true,
       };
 
+///
       export default class GamePage extends Component {
         constructor(props) {
           super(props);
